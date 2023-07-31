@@ -1,5 +1,8 @@
 # ProjectArtists
 
+
+<h1>OBSERVAÇÃO: INICIE SEMPRE O BACKEND PRIMEIRO, DEPOIS SIGA OS PASSOS ABAIXO NO SEU TERMINAL.</h1>
+
 ## Project setup
 ```
 npm install

@@ -4,7 +4,7 @@ import ArtistDetailVue from "@/views/ArtistDetail.vue";
 
 const rotas: RouteRecordRaw[] = [
     {
-        path: '/getAllArtists',
+        path: '/',
         name: 'GetAllArtists',
         component: GetAllArtists
     },

@@ -1,4 +1,4 @@
-# meu-alura-tracker
+# ProjectArtists
 
 ## Project setup
 ```

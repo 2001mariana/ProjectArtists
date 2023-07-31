@@ -54,7 +54,7 @@ $text-grey: #ccc;
 .ArtistBio {
     display: flex; 
     flex-direction: column; 
-    gap: 2rem;
+    gap: 1rem;
     width: 80%; 
     padding: 0 4rem; 
 }

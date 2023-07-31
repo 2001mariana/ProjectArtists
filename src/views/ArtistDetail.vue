@@ -88,7 +88,6 @@ $grey: #ccc;
     flex: 3; 
     flex-direction: row; 
     justify-content: space-between; 
-    padding-bottom: 4rem;
 }
 
 

@@ -25,7 +25,7 @@ export default defineComponent({
 const $router = useRouter();
 
 function redirectToHome() {
-  $router.push('../../getAllArtists');
+  $router.push('../../');
 }
 </script>
 
